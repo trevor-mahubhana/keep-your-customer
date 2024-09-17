@@ -1,1 +1,1 @@
-# keep-your-customer
+havard_artificial_intelligence_course
